@@ -1,0 +1,32 @@
+{
+  "tokenId": 991,
+  "name": "POLC 991",
+  "description": "Polychimpz, an exclusive collection of 1515 NFTs on the Polygon network. Each NFT embodies the spirit of a community-driven ecosystem, giving you a voice in our DAO. Participate in token governance and help shape the future of our project.",
+  "image": "991.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "mangaz"
+    },
+    {
+      "trait_type": "skins",
+      "value": "latte"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bored"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "puffy"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "black movie"
+    },
+    {
+      "trait_type": "tops",
+      "value": "degen og"
+    }
+  ]
+}

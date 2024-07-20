@@ -1,0 +1,36 @@
+{
+  "tokenId": 711,
+  "name": "POLC 711",
+  "description": "Polychimpz, an exclusive collection of 1515 NFTs on the Polygon network. Each NFT embodies the spirit of a community-driven ecosystem, giving you a voice in our DAO. Participate in token governance and help shape the future of our project.",
+  "image": "711.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pinkz"
+    },
+    {
+      "trait_type": "skins",
+      "value": "drippy"
+    },
+    {
+      "trait_type": "earings",
+      "value": "silver.PNG"
+    },
+    {
+      "trait_type": "necklaces",
+      "value": "silverner"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "sad"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "reg"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "pixel"
+    }
+  ]
+}

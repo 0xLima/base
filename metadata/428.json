@@ -1,0 +1,28 @@
+{
+  "tokenId": 428,
+  "name": "POLC 428",
+  "description": "Polychimpz, an exclusive collection of 1515 NFTs on the Polygon network. Each NFT embodies the spirit of a community-driven ecosystem, giving you a voice in our DAO. Participate in token governance and help shape the future of our project.",
+  "image": "428.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "cloud"
+    },
+    {
+      "trait_type": "skins",
+      "value": "blue"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "fomo hoodie"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smile"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "dizzy"
+    }
+  ]
+}
